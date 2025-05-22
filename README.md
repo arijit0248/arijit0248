@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/arijit0248/CodeForces/blob/main/240815068-993370af-11f4-48e7-9e0d-e5b79c2e7890.gif" alt="coding animation" />
+
+<img align="right" height="300" src="https://github.com/user-attachments/assets/46a52f1c-7198-4b6f-8f8d-275931974977" />
 
 ###
 
