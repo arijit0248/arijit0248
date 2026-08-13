@@ -38,13 +38,13 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_habits_charts: no
 
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
 
-          plugin_achievements: yes
+          plugin_achievements: no
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
